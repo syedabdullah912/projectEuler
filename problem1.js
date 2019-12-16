@@ -7,6 +7,7 @@
       sum += n;
     }
   }
+  
 
   console.log(sum);
   return sum;
